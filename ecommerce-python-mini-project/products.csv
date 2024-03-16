@@ -1,0 +1,9 @@
+product_id,product_name,stock,price,category
+1,shirt,33,650,clothing
+2,jeans,44,1600,clothing
+3,t-shirts,13,300,clothing
+4,night-ware(men/women),30,1200,clothing
+5,hoodies,12,1300,clothing
+6,sweet-shirts,30,600,clothing
+
+

@@ -1,0 +1,11 @@
+a=123
+b='kesava'
+c=1.01
+d=True
+e=1+2j
+print(type(a))
+print(type(b))
+print(type(c))
+print(type(d))
+print(type(e))
+print(type(str(5+2j)))
